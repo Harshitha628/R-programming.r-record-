@@ -1,0 +1,71 @@
+roll_no <- 102# Integer
+name <- "harshi"# Character
+cgpa <- 8.35# Numeric
+pass <- TRUE# Logical
+roll_no
+name
+cgpa
+pass
+
+emp_id <- 3001
+salary <- 35000.75
+department <- "finance"
+is_permanent <- TRUE
+emp_id
+salary
+department
+is_permanent
+
+product_name <- "mobile"
+price <- 50000
+stock_available <- 50
+discount_eligible <- FALSE
+product_name
+price
+stock_available
+discount_eligible
+
+city <- "Hyderabad"
+temperature <- 32.5
+rain <- FALSE
+wind_speed <- 10.8
+city
+temperature
+rain
+wind_speed
+
+account_no <- 987654321
+holder_name <- " Kumar"
+balance <- 23000.50
+account_actve <- TRUE
+account_no
+holder_name
+balance
+account_actve
+
+subject <- "data science"
+total_marks <- 50
+marks_obtained <- 40
+result <- marks_obtained >= 20 subject
+total_marks
+marks_obtained
+result
+
+movie_ttle <- "thammudu"
+ratng <- 8.00
+reviews <- 1200
+available <- TRUE
+movie_ttle
+ratng
+reviews
+available
+
+vehicle_count <- 300
+locaton <- "Highway Road"
+avg_speed <- 55.6
+congested <- TRUE
+vehicle_count
+locaton
+avg_speed
+congested
+
